@@ -45,12 +45,12 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=krawtschenko&theme=github-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krawtschenko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krawtschenko&theme=vision-friendly-dark)
 
 <hr>
 
 ### :exclamation: Codewars
-  
-[![codewars](https://www.codewars.com/users/EugeneKravchenkoUA/badges/large)](https://www.codewars.com/users/EugeneKravchenkoUA)
+
+![Codewars](https://github.r2v.ch/codewars?user=EugeneKravchenkoUA&stroke=%23BB432C)
 
 </div>
