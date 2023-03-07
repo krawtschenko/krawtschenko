@@ -1,6 +1,6 @@
 <div align="center">
 
-   <h1>
+  <h1>
     Hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <br/>
@@ -9,13 +9,13 @@
 
   ### :information_source: Contacts
   <div>
-    <a href="https://www.linkedin.com/in/yevhenii-kravchenko-7a6b96262/" target="_blank">
+    <a href="https://www.linkedin.com/in/yevhenii-kravchenko-7a6b96262/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/krawtschenko" target="_blank">
+    <a href="https://www.facebook.com/krawtschenko">
       <img src="https://img.shields.io/badge/FaceBook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
     </a>
-    <a href="mailto:eugenykravchenko@gmail.com" target="_blank">
+    <a href="mailto:eugenykravchenko@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
