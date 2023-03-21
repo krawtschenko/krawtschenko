@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Yevhenii_Kravchenko"/>
 
-  ### :information_source: Contacts
+  <b>Contacts</b>
   <div>
     <a href="https://www.linkedin.com/in/yevhenii-kravchenko-7a6b96262/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,7 @@
 
   <hr>
 
-  ### :hammer_and_wrench: Languages and Tools
+  <b>Languages and Tools</b>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@
 
   <hr>
 
-  ### :fire: My Stats
+  <b>My Stats</b>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krawtschenko&theme=black-ice&hide_border=true&stroke=1001&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Krawtschenko" /></div>
 
@@ -47,7 +47,7 @@
 
   <hr>
 
-  ### :exclamation: Codewars
+  <b>Codewars</b>
 
   ![Codewars](https://github.r2v.ch/codewars?user=EugeneKravchenkoUA&stroke=%23BB432C)
   
