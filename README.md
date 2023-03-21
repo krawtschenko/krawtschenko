@@ -1,11 +1,6 @@
 <div align="center">
 
-  <h1>
-    Hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    <br/>
-    My name is Yevhenii Kravchenko
-  </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Yevhenii_Kravchenko"/>
 
   ### :information_source: Contacts
   <div>
@@ -43,14 +38,19 @@
 
   ### :fire: My Stats
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=krawtschenko&theme=github-dark)
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krawtschenko&theme=black-ice&hide_border=true&stroke=1001&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Krawtschenko" /></div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krawtschenko&theme=vision-friendly-dark)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Krawtschenko&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Krawtschenko github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krawtschenko&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
   <hr>
 
   ### :exclamation: Codewars
 
   ![Codewars](https://github.r2v.ch/codewars?user=EugeneKravchenkoUA&stroke=%23BB432C)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 </div>
