@@ -4,7 +4,7 @@
 
   <b>Contacts</b>
   <div>
-    <a href="https://www.linkedin.com/in/yevhenii-kravchenko-7a6b96262/">
+    <a href="https://www.linkedin.com/in/eugene-kravchenko-7a6b96262/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/krawtschenko">
