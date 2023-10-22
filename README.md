@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Eugene_Kravchenko"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer&text=Eugene%20Kravchenko"/>
 
   <b>Contacts</b>
   <div>
