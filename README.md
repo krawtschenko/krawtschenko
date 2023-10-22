@@ -16,7 +16,7 @@
   
   ---
 
-  ### 💻 Technologies:
+  ### 🛠 Technologies:
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
@@ -30,10 +30,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   </div>
-
-  ---
-
-  ### 🛠 Tools:
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -53,7 +49,7 @@
 
   ---
 
-  ### 📖 Codewars:
+  ### 💻 Codewars:
   ![codewars](https://www.codewars.com/users/krawtschenko/badges/large)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
