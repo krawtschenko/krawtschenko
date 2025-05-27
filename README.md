@@ -46,10 +46,5 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krawtschenko&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
   </div>
 
-  ---
-
-  ### 💻 Codewars:
-  ![codewars](https://www.codewars.com/users/krawtschenko/badges/large)
-
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
 </div>
